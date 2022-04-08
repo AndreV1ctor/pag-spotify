@@ -1,2 +1,2 @@
-# pag-spotify
-criação da página principal do Spotify
+# Replicando Spotify
+## testando conhecimentos criando uma página do Spotify
