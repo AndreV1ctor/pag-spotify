@@ -1,2 +1,2 @@
 # Replicando Spotify
-testando conhecimentos criando uma página do Spotify
+criando réplica da página do Spotify (versão antiga)
